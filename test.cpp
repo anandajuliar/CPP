@@ -13,5 +13,3 @@ int main()
         //compute nLuas = 3.14 * r * r
         cout << "Luasnya =" << nLuas << endl; // display 'Luasnya =' +nLuas
 }//end
-
-//test
